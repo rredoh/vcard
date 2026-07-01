@@ -87,13 +87,7 @@ function populateProfileData() {
   if (skillsList) {
     skillsList.innerHTML = profileData.skills.map(skill => `
       <li class="skills-item">
-        <div class="title-wrapper">
-          <h5 class="h5">${skill.name}</h5>
-          <data value="${skill.level}">${skill.level}%</data>
-        </div>
-        <div class="skill-progress-bg">
-          <div class="skill-progress-fill" style="width: ${skill.level}%;"></div>
-        </div>
+        <h5 class="h5">${skill.name}</h5>
       </li>
     `).join('\n');
   }

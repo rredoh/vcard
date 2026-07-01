@@ -81,9 +81,9 @@ const profileData = {
   ],
   skills: [
     { name: "iOS Development (Swift, SwiftUI, UIKit)", level: 95 },
+    { name: "Android Development (Kotlin, Jetpack Compose)", level: 80 },
     { name: "Mobile Architecture (MVVM, Clean Architecture)", level: 90 },
-    { name: "Cross-Platform Development (Xamarin, C#)", level: 85 },
-    { name: "CI/CD & Mobile DevOps (Fastlane, GitHub Actions)", level: 80 }
+    { name: "Cross-Platform Development (Xamarin, C#)", level: 85 }
   ],
   projects: [
     {
