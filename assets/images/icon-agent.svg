@@ -1,0 +1,34 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagonal background network node backing with 0.15 opacity -->
+  <path opacity="0.15" fill-rule="evenodd" clip-rule="evenodd" d="M20 2L37 11.5V30.5L20 40L3 30.5V11.5L20 2Z" fill="url(#paint0_linear)"/>
+  
+  <!-- Robot Face Outline -->
+  <rect x="8" y="10" width="24" height="20" rx="5" stroke="url(#paint0_linear)" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Antennas -->
+  <path d="M15 10L12 6" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 10L28 6" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="12" cy="5" r="1.5" fill="url(#paint0_linear)"/>
+  <circle cx="28" cy="5" r="1.5" fill="url(#paint0_linear)"/>
+  
+  <!-- Ears / Side Bolts -->
+  <rect x="5" y="17" width="3" height="6" rx="1.5" fill="url(#paint0_linear)"/>
+  <rect x="32" y="17" width="3" height="6" rx="1.5" fill="url(#paint0_linear)"/>
+  
+  <!-- Eyes -->
+  <circle cx="15" cy="18" r="2" fill="url(#paint0_linear)"/>
+  <circle cx="25" cy="18" r="2" fill="url(#paint0_linear)"/>
+  
+  <!-- Mouth / Waveform representing speaking/active agent -->
+  <path d="M14 24C16 26 24 26 26 24" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Brain / CPU Circuit Line on Forehead -->
+  <path d="M20 10V14H22" stroke="url(#paint0_linear)" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <defs>
+    <linearGradient id="paint0_linear" x1="3" y1="2" x2="37" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+</svg>

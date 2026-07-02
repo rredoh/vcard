@@ -28,16 +28,16 @@ const profileData = {
       description: "Designing clean, modular, and scalable architectures (MVVM, Clean Architecture) for enterprise-scale projects."
     },
     {
-      title: "Cross-Platform Dev",
+      title: "UI/UX Implementation",
       icon: "./assets/images/icon-design.svg",
       alt: "design icon",
-      description: "Developing cross-platform mobile apps and interactive experiences using Xamarin, C#, and Unity."
+      description: "Translating designer vision into pixel-perfect, interactive, and highly responsive user interfaces."
     },
     {
-      title: "UI/UX Implementation",
-      icon: "./assets/images/icon-photo.svg",
-      alt: "camera icon",
-      description: "Translating designer vision into pixel-perfect, interactive, and highly responsive user interfaces."
+      title: "AI-Augmented Development",
+      icon: "./assets/images/icon-agent.svg",
+      alt: "robot icon",
+      description: "Leveraging agentic AI tools and LLM coding assistants (Antigravity, Copilot, OpenCode) to optimize engineering workflows, accelerate delivery, and ensure code quality."
     }
   ],
   education: [
